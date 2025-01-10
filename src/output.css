@@ -769,8 +769,8 @@ video {
   width: 0.75rem;
 }
 
-.w-32 {
-  width: 8rem;
+.w-40 {
+  width: 10rem;
 }
 
 .w-5 {
@@ -791,6 +791,10 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-32 {
+  width: 8rem;
 }
 
 .w-2 {
@@ -1379,10 +1383,6 @@ video {
   color: ;
 }
 
-.hover\:text-\[\#\]:hover {
-  color: #;
-}
-
 .hover\:text-\[\#ff\]:hover {
   color: #ff;
 }
@@ -1390,6 +1390,10 @@ video {
 .hover\:text-\[\#ff7f00\]:hover {
   --tw-text-opacity: 1;
   color: rgb(255 127 0 / var(--tw-text-opacity, 1));
+}
+
+.hover\:text-\[\#\]:hover {
+  color: #;
 }
 
 .hover\:text-\[\#f4a300\]:hover {
